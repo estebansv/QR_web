@@ -36,7 +36,7 @@ def generate_qr(text, output_format="png", show_image=False):
 
 def main():
     # Título de la aplicación
-    st.title("📉 Generador de Códigos QR TT 📜")
+    st.title("📉 Generador de Códigos QR T T. 📜")
 
     # Campo de entrada de texto
     text = st.text_input("Ingrese el texto para el código QR:")
